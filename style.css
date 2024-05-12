@@ -113,6 +113,7 @@ p {
   min-width: 200px;
   margin-bottom: 50px;
   transition: transform 0.5s;
+  border:1px solid rgba(0, 0, 0, 0.251);
 }
 .col-4 img {
   width: 100%;
